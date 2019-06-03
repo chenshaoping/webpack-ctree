@@ -1,0 +1,23 @@
+.cTree{
+    list-style: none;
+    padding: 5px;
+    margin: 0px;
+}
+/* .cTree ul{
+    list-style: none;
+} */
+.cTree li{
+    list-style: none;
+    white-space: normal;
+    word-wrap:normal;
+    word-break: normal;
+    /* display: flex;
+    flex-wrap: nowrap; */
+}
+
+.closed{
+    display: none;
+}
+.opened{
+    display: '';
+}
